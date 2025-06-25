@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Level 1 - Task 2</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+      padding: 30px;
+    }
+
+    button, input {
+      padding: 10px;
+      margin: 10px;
+      font-size: 16px;
+      border-radius: 5px;
+    }
+
+    #colorBtn {
+      background-color: #6200ea;
+      color: rgb(255, 255, 255);
+      border: none;
+      cursor: pointer;
+    }
+
+    #colorBtn:hover {
+      background-color: #3700b3;
+    }
+
+    #calcResult {
+      font-weight: bold;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>Level 1 Task 2</h2>
+
+  <h3>Color Changing Button</h3>
+  <button id="colorBtn" onclick="changeColor()">Change color</button>
+
+  <h3>Greeting Based on Time</h3>
+  <button onclick="showGreeting()">Hello!</button>
+
+  <h3>Simple Calculator</h3>
+  <input type="number" id="num1" placeholder="Enter first number">
+  <input type="number" id="num2" placeholder="Enter second number"><br>
+  <button onclick="calculateSum()">Add</button>
+  <div id="calcResult"></div>
+
+  <script>
+    function changeColor() {
+      const btn = document.getElementById("colorBtn");
+      btn.style.backgroundColor = btn.style.backgroundColor === "red" ? "#6200ea" : "red";
+    }
+
+    function showGreeting() {
+      const hour = new Date().getHours();
+      let greeting = "Hello!";
+      if (hour < 12) greeting = "Good Morning!";
+      else if (hour < 18) greeting = "Good Afternoon!";
+      else greeting = "Good Evening!";
+      alert(greeting);
+    }
+
+    function calculateSum() {
+      const n1 = parseFloat(document.getElementById("num1").value);
+      const n2 = parseFloat(document.getElementById("num2").value);
+      const result = n1 + n2;
+      document.getElementById("calcResult").innerText = "Result: " + result;
+    }
+  </script>
+
+</body>
+</html>
