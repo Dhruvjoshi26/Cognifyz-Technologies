@@ -40,11 +40,13 @@ This repository contains the completed tasks for the **Web Development Internshi
   - Heading, paragraph, and image
   - Navigation menu with three links
   - Contact form using HTML and CSS
+![Task1](https://github.com/Dhruvjoshi26/Cognifyz-Technologies/blob/main/Screenshots/Task%201.png?raw=true)  
 
 - **Task 2:** Implemented JavaScript features:
   - Button that changes color on click
   - Time-based greeting using alerts
   - Simple calculator to add two numbers
+![Task2](https://github.com/Dhruvjoshi26/Cognifyz-Technologies/blob/main/Screenshots/Task2.png?raw=true)
 
 ---
 
@@ -53,10 +55,12 @@ This repository contains the completed tasks for the **Web Development Internshi
 - **Task 1:** Used **Bootstrap 5** for:
   - Responsive card component
   - Responsive grid layout with 3 columns
+![Task3](https://github.com/Dhruvjoshi26/Cognifyz-Technologies/blob/main/Screenshots/Task3.png?raw=true)
 
 - **Task 2:** Built a fully responsive webpage using **media queries**:
   - Mobile-friendly layout
   - Hamburger menu using pure HTML & CSS (no JS)
+![Task4](https://github.com/Dhruvjoshi26/Cognifyz-Technologies/blob/main/Screenshots/Task4.png?raw=true)
 
 ---
 
@@ -65,12 +69,13 @@ This repository contains the completed tasks for the **Web Development Internshi
 - **Task 1:** Developed an interactive image section:
   - Thumbnail image gallery with zoom effect on hover
   - CSS-only image slideshow with fade animation
+![Task5](https://github.com/Dhruvjoshi26/Cognifyz-Technologies/blob/main/Screenshots/Task5.png?raw=true)
 
 - **Task 2:** Designed a professional **Landing Page**:
   - Internship introduction, benefits, qualifications
   - Call-to-action section with “Apply Now” button
   - Footer with company contact info and links
-
+![Task6](https://github.com/Dhruvjoshi26/Cognifyz-Technologies/blob/main/Screenshots/Task6.png?raw=true)
 ---
 
 ## ▶️ How to Run the Project
