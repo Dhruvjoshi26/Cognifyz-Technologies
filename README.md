@@ -6,11 +6,11 @@ This repository contains the completed tasks for the **Web Development Internshi
 
 ## 👤 Intern Details
 
-- **Name:** [Your Full Name]
+- **Name:** Dhruv Joshi
 - **Internship Domain:** Web Development
 - **Duration:** 1 Month
 - **Company:** Cognifyz Technologies
-- **Submitted On:** [Submission Date]
+- **Submitted On:** 1 JULY 2025
 
 ---
 
