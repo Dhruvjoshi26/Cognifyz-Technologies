@@ -16,6 +16,7 @@ This repository contains the completed tasks for the **Web Development Internshi
 
 ## 📁 Project Structure
 
+```
 /Cognifyz-Technologies
 ├── README.md
 ├── Level1/
@@ -27,7 +28,7 @@ This repository contains the completed tasks for the **Web Development Internshi
 ├── Level3/
     ├── task5.html
     └── task5.css
-
+```
 
 ---
 
