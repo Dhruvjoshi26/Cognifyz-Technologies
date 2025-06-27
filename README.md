@@ -111,6 +111,3 @@ I am thankful to **Cognifyz Technologies** for this valuable learning opportunit
 
 - **Email:** [dhruvjoshi26a@gmail.com]
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/dhruv-joshi-69422625b/)
-- **GitHub:** [https://github.com/Dhruvjoshi26](https://github.com/Dhruvjoshi26)
-
----
