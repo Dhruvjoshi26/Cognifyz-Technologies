@@ -16,18 +16,17 @@ This repository contains the completed tasks for the **Web Development Internshi
 
 ## 📁 Project Structure
 
-cognifyz-internship/
-│
-├── Level1_Task1.html # Heading, Paragraph, Image, Form, Navigation Menu
-├── Level1_Task2.html # JavaScript: Color Button, Greeting, Calculator
-│
-├── Level2_Task1.html # Bootstrap Card Component + Responsive Grid
-├── Level2_Task2.html # Responsive Design + Hamburger Menu (Media Queries)
-│
-├── Level3_Task1.html # Image Gallery + CSS Slideshow
-├── Level3_Task2.html # Internship Landing Page (Final Capstone)
-│
-└── README.md # Project documentation
+/Cognifyz-Technologies
+├── README.md
+├── Level1/
+│   ├── task1.html
+│   └── task1.css
+├── Level2/
+│   ├── task3.html
+│   └── task3.css
+├── Level3/
+    ├── task5.html
+    └── task5.css
 
 
 ---
